@@ -43,9 +43,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
-
 </div>
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4151d226-bfa5-46aa-9f3e-41f2cdf2f4b7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 ## Certifications in Progress
