@@ -28,6 +28,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tcpdump-EF3B2D?&style=for-the-badge&logo=Tcpdump&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NMap-1679A7?&style=for-the-badge&logo=NMap&logoColor=white" />
 </div>
 
 ### Endpoint
