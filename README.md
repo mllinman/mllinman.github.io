@@ -26,8 +26,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tcpdump-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tcpdump-EF3B2D?&style=for-the-badge&logo=Tcpdump&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=Metasploit&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -44,7 +44,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ISC2%20Cybersecurity%20Candidate-4285F4?style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ISC2%20Cybersecurity%20Candidate-4285F4?style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
 <div 
 
