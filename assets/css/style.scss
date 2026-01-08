@@ -272,7 +272,7 @@ div img[src*="shields.io"] {
   
   /* Prevent content from stretching too wide on ultra-wide monitors */
   p, li, blockquote {
-    max-width: 1400px;
+    max-width: 1200px;
   }
 }
 
@@ -293,16 +293,23 @@ div img[src*="shields.io"] {
 
 /* Accessibility improvements */
 @media (prefers-reduced-motion: reduce) {
-  * {
-    animation-duration: 0.01ms !important;
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0s !important;
     animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
+    transition-duration: 0s !important;
   }
 }
 
 /* High contrast mode support */
 @media (prefers-contrast: high) {
-  body {
+  a {
+    text-decoration: underline;
+  }
+  
+  button,
+  a.btn {
     border: 2px solid currentColor;
   }
 }
